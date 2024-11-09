@@ -1,3 +1,3 @@
 # LISTA DE ATIVIDADES
 
-Resolução da lista de atividades (praticando 3) da matéria Programação II. Aluno Tiago Lima, estudante do curso de ciência da computação na UNIFOR-MG.
+Repositório aonde guardo os códigos das atividades que treino lógica de programação, estrutura de dados e outros tópicos base da linguagem Java e da programação em geral.
